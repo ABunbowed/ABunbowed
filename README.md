@@ -10,7 +10,7 @@
 
 📫 Reach out to me via [Your Preferred Contact Method] and explore my latest projects below!
 
-🔗 [Portfolio Website or GitHub Profile Link]
+🔗 [(https://portfolio-taupe-nine-45.vercel.app/)]
 
 
 <!--
