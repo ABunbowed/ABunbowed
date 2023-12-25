@@ -8,7 +8,7 @@
 
 💬 Let's connect! Ask me about web development, coding challenges, or anything tech-related.
 
-📫 Reach out to me via [Your Preferred Contact Method] and explore my latest projects below!
+📫 Reach out to me via [abejhaycross@hotmail.com] and explore my latest projects below!
 
 🔗 [(https://portfolio-taupe-nine-45.vercel.app/)]
 
